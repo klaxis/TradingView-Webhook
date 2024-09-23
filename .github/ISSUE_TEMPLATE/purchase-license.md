@@ -7,12 +7,19 @@ assignees: ''
 
 ---
 
-We are currently selling license by packs of 2.
+We are currently selling license by packs. Each pack includes 1 free license.
+ 
+ 
+19 Pack  - $10
+49 Pack  - $20
+99 Pack  - $30
+99 Pack  - $30
+149 Pack  - $40
+199 Pack  - $50
 
-2 Pack -  $2
-4 Pack - $4
-6 Pack - $6
-8 Pack - $8
-10 Pack  - $10
+Additinal licneses after the 199 Pack are $10 per 100.
 
-Need more than just multiply any pack above.
+License Purchase will be made via Paypal
+
+
+Remote support is avilable via Fivver for $500 / call.    
