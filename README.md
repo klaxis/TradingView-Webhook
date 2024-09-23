@@ -8,7 +8,10 @@ A free linese which will allow you to use Tradehook with one Ticker / Symbol.  I
 GW/9APyZuJY=
 ```
  
-<picture>
  
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+
+ 
+  <img alt="Pic1" src="https://github.com/klaxis/tradingview-tradehook/blob/main/img/Capture.PNG?raw=true">
+  <img alt="Pic2" src="https://github.com/klaxis/tradingview-tradehook/blob/main/img/Capture1.PNG?raw=true">
+  <img alt="Pic3" src="https://github.com/klaxis/tradingview-tradehook/blob/main/img/Capture2.PNG?raw=true">
+  <img alt="Pic4" src="https://github.com/klaxis/tradingview-tradehook/blob/main/img/Capture3.PNG?raw=true">
