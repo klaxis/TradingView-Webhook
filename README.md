@@ -12,8 +12,11 @@ GW/9APyZuJY=
 
  
   <img alt="Pic" src="https://github.com/klaxis/tradingview-tradehook/blob/main/img/Capture.PNG?raw=true">
-  <img alt="Pic1" src="https://github.com/klaxis/tradingview-tradehook/blob/main/img/Capture1.PNG?raw=true">
+ 
   <img alt="Pic2" src="https://github.com/klaxis/tradingview-tradehook/blob/main/img/Capture2.PNG?raw=true">
+  
   <img alt="Pic3" src="https://github.com/klaxis/tradingview-tradehook/blob/main/img/Capture3.PNG?raw=true">
+  
   <img alt="Pic4" src="https://github.com/klaxis/tradingview-tradehook/blob/main/img/Capture4.PNG?raw=true">
+  
   <img alt="Pic5" src="https://github.com/klaxis/tradingview-tradehook/blob/main/img/Capture5.PNG?raw=true">
