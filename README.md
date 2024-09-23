@@ -7,6 +7,8 @@ A free linese which will allow you to use Tradehook with one Ticker / Symbol.  I
 ```
 GW/9APyZuJY=
 ```
-
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-  
+ 
+<picture>
+ 
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
