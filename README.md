@@ -3,9 +3,15 @@
 
 # License 
 
-A free linese which will allow you to use Tradehook with one Ticker / Symbol.  If you wish to purchase more more symbols / tickers to trade please submit To request a license, please visit the issue creation page on GitHub for the klaxis/tradehook repository, and select the 'purchase-license' template.
+A free linese which will allow you to use Tradehook with one Ticker / Symbol.  If you wish to purchase more symbols / tickers to trade please submit To request a license, please visit the issue creation page on GitHub for the klaxis/tradehook repository, and select the 'purchase-license' template.
+
+
+## Free License
+
+Use this code to allow 20 tickers/symbols for trading on Gemini or Alpaca.
+
 ```
-GW/9APyZuJY=
+nh5ay3clkjM=
 ```
  
  
