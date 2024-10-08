@@ -3,7 +3,7 @@
 
 # License 
 
-A free linese which will allow you to use Tradehook with one Ticker / Symbol.  If you wish to purchase more symbols / tickers to trade please submit To request a license, please visit the issue creation page on GitHub for the klaxis/tradehook repository, and select the 'purchase-license' template.
+A free linese which will allow you to use Tradehook with Symbols.  If you wish to purchase more symbols to trade please submit To request a license, please visit the issue creation page on GitHub for the klaxis/tradehook repository, and select the 'purchase-license' template.
 
 
 ## Free License
