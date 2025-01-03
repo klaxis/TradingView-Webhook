@@ -11,10 +11,10 @@ A free linese which will allow you to use Tradehook with Symbols.  If you wish t
 Use this code to allow 2 tickers/symbols for trading on Gemini or Alpaca.
 
 ```
-tAuVueE9PIY=
+sn5xFG6Vg8c=
 ```
  
-#### Purchase annual lincese packs. 
+#### Purchase lincese packs for TradeHook V1. 
 https://www.paypal.com/ncp/payment/6N63LBW4D6ZZA
 
  
