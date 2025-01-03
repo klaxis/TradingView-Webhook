@@ -14,7 +14,8 @@ Use this code to allow 2 tickers/symbols for trading on Gemini or Alpaca.
 tAuVueE9PIY=
 ```
  
- 
+#### Purchase lincese packs
+https://www.paypal.com/ncp/payment/6N63LBW4D6ZZA
 
  
   <img alt="Pic" src="https://github.com/klaxis/tradingview-tradehook/blob/main/img/Capture.PNG?raw=true">
