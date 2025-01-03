@@ -14,7 +14,7 @@ Use this code to allow 2 tickers/symbols for trading on Gemini or Alpaca.
 tAuVueE9PIY=
 ```
  
-#### Purchase lincese packs
+#### Purchase lincese packs (1 Year Only)
 https://www.paypal.com/ncp/payment/6N63LBW4D6ZZA
 
  
