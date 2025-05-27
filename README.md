@@ -8,10 +8,10 @@ A free linese which will allow you to use Tradehook with Symbols.  If you wish t
 
 ## Free License
 
-Use this code to allow 10 tickers/symbols for trading on Robinhood, Gemini and Alpaca.
+Use this code to allow 5 tickers/symbols for trading on Robinhood, Gemini and Alpaca.
 
 ```
-n1OijGKJKDw=
+46JmXkX5KcA=
 ```
  
 #### Purchase lincese packs for TradeHook V1. 
